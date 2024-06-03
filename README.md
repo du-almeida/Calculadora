@@ -1,3 +1,3 @@
 # Calculadora
 Primeiro Projeto - Calculadora
-<img src="/assets/img/arquivo.gif">
+<img src="/assets/banner-calculadora.png">
